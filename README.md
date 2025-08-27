@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-100%25-blue)
+![Progress](https://img.shields.io/badge/Progress-100%25-green)
 
 # 🧠 Employee Salary Prediction
 
