@@ -7,7 +7,7 @@ This project is a machine learning web app that predicts whether an employee ear
 Predict income classes (<=50K or >50K) using the **Adult Census Income Dataset**. This is a binary classification problem widely used in predictive modeling.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML-Scikitlearn" />
+  <img src="https://img.shields.io/badge/ML-Scikit-learn" />
   <img src="https://img.shields.io/badge/Python-3.10+-yellow" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
   <img src="https://img.shields.io/badge/Status-Completed-success" />
